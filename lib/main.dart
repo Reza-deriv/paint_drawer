@@ -6,7 +6,6 @@ import 'dart:ui';
 void main() {
   runApp(DrawApp());
   
-  
 }
 
 class DrawApp extends StatelessWidget {
